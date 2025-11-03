@@ -10,13 +10,13 @@ import threading
 import MasonsAPI_KEY
 
 apikey = MasonsAPI_KEY.OPENAI_API_KEY
-
+     
 class SentimentAnalysisGUI:
     def __init__(self, root):
         self.root = root
         self.root.title("Apple Vision Pro Sentiment Analysis")
         self.root.geometry("1200x800")
-        
+         
         # Initialize OpenAI client with API key from separate file
         try:
             self.client = OpenAI(api_key=MasonsAPI_KEY.OPENAI_API_KEY)
