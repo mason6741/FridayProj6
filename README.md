@@ -420,7 +420,14 @@ This project is for educational purposes as part of Friday Project 6.
 1. Set up your API key in `MasonsAPI_KEY.py`
 2. Run `python sentiment_analysis_gui.py`
 3. Load your reviews
+<<<<<<< HEAD
 4. Click "Run Full Analysis"     
 5. Explore your results!
     
 **Good luck with your analysis!** 🚀   
+=======
+4. Click "Run Full Analysis"
+5. Explore your results!
+
+**Good luck with your analysis!** 🚀# FridayProj6
+>>>>>>> 3a34f2765ccbb88ff22b633d575ecfd24702d5c5
